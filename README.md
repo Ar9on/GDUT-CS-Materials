@@ -1,6 +1,7 @@
 # GDUT-CS-Materials
 
 广工计科课程资料文件 归档整理（个人向）
+
 A personal archive of course materials and review notes for Computer Science students at Guangdong University of Technology.
 
 ## 简介
@@ -18,6 +19,7 @@ A personal archive of course materials and review notes for Computer Science stu
 ## 声明
 
 本仓库资料仅供学习参考，请勿直接复制抄袭用于提交作业，也请不要倒卖。若涉及侵权，请联系删除。
+
 感谢所有向我们分享过资料的老师和同学，欢迎补充、修正或提出建议。
 
 ## 目录结构概览
@@ -67,6 +69,7 @@ GDUT-CS-Materials
 
 - 补充部分课程的期末作业报告
 - 将一些课程的课程设计项目另开仓库上传
+
 
 
 最后更新：2025/12/15
